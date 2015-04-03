@@ -1,0 +1,14 @@
+{
+	"name": "DICT",
+	"repository": "https://github.com/OpenMobileAlliance/OMA_Dictionary",
+	"status": "DRAFT",
+	"builds": [
+		{
+			"name": "DRAFT",
+			"sources": [
+				"OMA_ORG_Dictionary.html",
+			],
+			"support": []
+		}
+	]
+}
