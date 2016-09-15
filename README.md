@@ -1,2 +1,2 @@
 # OMA_Dictionary
-dictionary for oma specifications
+comprehensive dictionary for all oma specifications
