@@ -1,2 +1,2 @@
 # OMA_Dictionary
-dictionary for oma specifications
+This is a test to Review the Pull Request Flow process
